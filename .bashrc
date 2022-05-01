@@ -1,3 +1,6 @@
+# set alias for chromium
+alias chromium=/Applications/Chromium.app/Contents/MacOS/Chromium
+
 # set alias for php composer thingy
 alias composer=~/composer.phar
 
